@@ -1,0 +1,18 @@
+- REST basics
+- HTTP methods
+- Status codes
+- URL naming
+- Request & Response design
+- Headers
+- Authentication (JWT, OAuth)
+- Pagination
+- Filtering & Sorting
+- Versioning
+- Idempotency
+- Error handling
+- Rate limiting
+- Caching
+- File upload
+- API security
+- Webhooks
+- API documentation (OpenAPI/Swagger)
