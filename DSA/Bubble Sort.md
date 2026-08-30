@@ -14,6 +14,7 @@
 
 #### Implementation - Kotlin
 
+```
 fun bubbleSort(arr: IntArray) {
     for (i in 0 until arr.size - 1) {
         var swapped = false
@@ -30,6 +31,8 @@ fun bubbleSort(arr: IntArray) {
         if (!swapped) break
     }
 }
+
+```
 
 #### When to use
 1.  Very small datasets.
