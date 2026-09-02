@@ -33,8 +33,7 @@ Sorting organizes data so that searching, comparison, merging, duplicate detecti
 12. Cycle Sort
 13. Comb Sort
 14. Pigeonhole Sort
-15. 
-16. External Sort
+15. External Sort
 
 
 ### Stable/Unstable Sorting
@@ -42,7 +41,40 @@ Sorting organizes data so that searching, comparison, merging, duplicate detecti
 > **Stable sort preserves the relative order of equal elements; unstable sort does not guarantee it.**
 
 **Easy memory trick:**  
->**Stable = Equal items stay in the same order.**
+**Stable = Equal items stay in the same order.**
+
+
+### Stable Sorting
+
+If two elements have the same key, their **original relative order is preserved**.
+
+```
+Before:
+(A, 20), (B, 10), (C, 20)
+
+Sort by number:
+
+(B, 10), (A, 20), (C, 20)
+          ↑        ↑
+          A stays before C
+```
+
+A and C both have `20`. Since A was before C originally, it remains before C.
+
+### Unstable Sorting
+
+Elements with the same key **may change their relative order**.
+
+```
+Before:
+(A, 20), (B, 10), (C, 20)
+
+Possible result:
+
+(B, 10), (C, 20), (A, 20)
+          ↑        ↑
+          order changed
+```
 
 #### Stable Sorting
 - Bubble Sort
