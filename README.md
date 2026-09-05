@@ -1,215 +1,64 @@
 #READ 
 
-
-A structured collection of notes, concepts, patterns, and implementations for Software Engineering interview preparation.
-
-The focus is on **practical interview knowledge** — what to understand, what to implement, and what to explain during technical interviews.
-
 ---
 ## Repository Structure
 
 ```text
 algo-forge/
 │
-├── 00-contents/
-├── 01-data-structures-algorithms/
-├── 02-leetcode-patterns/
-├── 03-system-design/
-├── 04-backend-engineering/
-├── 05-mobile-engineering/
-├── 06-behavioral-leadership/
+├── 01-data-structures
+├── 02-algorithms/
+├── 03-leetcode-patterns/
+├── 04-system-design/
+├── 05-backend-engineering/
+├── 06-artificial-intelligent/
+├── 07-mobile-engineering/
+├── 08-behavioral-leadership/
 │
 └── README.md
 ```
 
-
 ---
+
+# Interview Preparation
+
+Structured notes for Software Engineering interview preparation.
 
 ## Contents
 
-### 01. Data Structures & Algorithms
+1. Data Structures & Algorithms
+    
+2. LeetCode Patterns
+    
+3. System Design
+    
+4. Backend Engineering
+    
+5. Mobile Engineering
+    
+6. Behavioral & Leadership
 
-- Arrays
-    
-- Strings
-    
-- Linked Lists
-    
-- Stack
-    
-- Queue
-    
-- Hashing
-    
-- Trees
-    
-- Binary Search Trees
-    
-- Heap / Priority Queue
-    
-- Graphs
-    
-- Trie
-    
-- Sorting
-    
-- Searching
-    
-- Recursion
-    
-- Backtracking
-    
-- Greedy
-    
-- Dynamic Programming
-    
-- Bit Manipulation
-    
 
-### 02. LeetCode Patterns
+## Focus
 
-- Two Pointers
+- Core concepts
     
-- Sliding Window
+- Algorithms & patterns
     
-- Fast & Slow Pointers
+- Kotlin implementations
     
-- Prefix Sum
+- Time & space complexity
     
-- Binary Search
+- System design
     
-- Merge Intervals
+- Engineering trade-offs
     
-- Monotonic Stack
-    
-- Top K Elements
-    
-- BFS
-    
-- DFS
-    
-- Backtracking
-    
-- Graph Traversal
-    
-- Topological Sort
-    
-- Union Find
-    
-- Dynamic Programming
-    
+- Interview questions
 
-### 03. System Design
 
-- Requirements
-    
-- Capacity Estimation
-    
-- API Design
-    
-- Database Design
-    
-- Caching
-    
-- Load Balancing
-    
-- CDN
-    
-- Message Queues
-    
-- Rate Limiting
-    
-- Scaling
-    
-- Replication
-    
-- Partitioning / Sharding
-    
-- Consistency
-    
-- Availability
-    
-- Fault Tolerance
-    
-- Observability
-    
-- Security
-    
+## Goal
 
-### 04. Backend Engineering
-
-- REST APIs
-    
-- Authentication & Authorization
-    
-- Databases
-    
-- Caching
-    
-- Messaging
-    
-- Microservices
-    
-- Distributed Systems
-    
-- Concurrency
-    
-- API Security
-    
-- Performance
-    
-- Observability
-    
-
-### 05. Mobile Engineering
-
-- Android Architecture
-    
-- Kotlin
-    
-- Coroutines & Flow
-    
-- Jetpack Compose
-    
-- Networking
-    
-- Local Storage
-    
-- Offline-First
-    
-- Performance
-    
-- Security
-    
-- Modularization
-    
-- Testing
-    
-
-### 06. Behavioral & Leadership
-
-- STAR Method
-    
-- Project Challenges
-    
-- Technical Decisions
-    
-- Conflict Resolution
-    
-- Failure Stories
-    
-- Leadership
-    
-- Mentoring
-    
-- Cross-Team Collaboration
-    
-- Architecture Decisions
-    
-- Production Incidents
-    
-
----
+**Understand → Implement → Analyze → Explain**
 
 > Understand the concept. Recognize the pattern. Explain the trade-off. Then write the code.
 
