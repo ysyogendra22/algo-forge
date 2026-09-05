@@ -1,4 +1,4 @@
-#datastrcture
+#datastructure
 #### 1. What is a Data Structure?
 
 1. A **Data Structure** is a way of organizing and storing data so it can be accessed and modified efficiently.

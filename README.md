@@ -1,6 +1,5 @@
 #READ 
 
-# Interview Preparation
 
 A structured collection of notes, concepts, patterns, and implementations for Software Engineering interview preparation.
 
@@ -208,59 +207,6 @@ algo-forge/
 - Architecture Decisions
     
 - Production Incidents
-    
-
----
-
-## Study Approach
-
-For each technical topic, focus on:
-
-1. **What it is**
-    
-2. **Why it is used**
-    
-3. **How it works**
-    
-4. **Core concepts**
-    
-5. **Algorithm / logic**
-    
-6. **Implementation**
-    
-7. **Time & space complexity**
-    
-8. **Common patterns**
-    
-9. **Common interview questions**
-    
-10. **Trade-offs**
-    
-
----
-
-
----
-
-## Goal
-
-Build strong enough fundamentals to:
-
-- Solve coding problems systematically
-    
-- Explain solutions clearly
-    
-- Analyze time and space complexity
-    
-- Recognize common problem-solving patterns
-    
-- Design scalable systems
-    
-- Discuss engineering trade-offs
-    
-- Handle architecture and leadership discussions
-    
-- Make sound technical decisions under interview constraints
     
 
 ---
