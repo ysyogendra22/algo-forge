@@ -1,6 +1,31 @@
 #READ 
 
 ---
+# Interview Preparation
+
+Structured notes for Software Engineering interview preparation.
+
+## Contents
+
+1. Data Structures
+    
+2. Algorithms
+    
+3. LeetCode Patterns
+    
+4. System Design
+    
+5. Backend Engineering
+    
+6. Artificial-Intelligence
+    
+7. Mobile Engineering
+    
+8. Behavioral & Leadership
+    
+9. Architecture
+
+
 ## Repository Structure
 
 ```text
@@ -14,29 +39,12 @@ algo-forge/
 ├── 06-artificial-intelligent/
 ├── 07-mobile-engineering/
 ├── 08-behavioral-leadership/
+├── 09-architecture/
 │
 └── README.md
 ```
 
 ---
-
-# Interview Preparation
-
-Structured notes for Software Engineering interview preparation.
-
-## Contents
-
-1. Data Structures & Algorithms
-    
-2. LeetCode Patterns
-    
-3. System Design
-    
-4. Backend Engineering
-    
-5. Mobile Engineering
-    
-6. Behavioral & Leadership
 
 
 ## Focus
@@ -54,6 +62,7 @@ Structured notes for Software Engineering interview preparation.
 - Engineering trade-offs
     
 - Interview questions
+
 
 
 ## Goal
