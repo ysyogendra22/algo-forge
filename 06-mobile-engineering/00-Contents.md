@@ -1,0 +1,11 @@
+- Android Architecture
+- Kotlin
+- Coroutines & Flow
+- Jetpack Compose
+- Networking
+- Local Storage
+- Offline-First
+- Performance
+- Security
+- Modularization
+- Testing

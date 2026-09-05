@@ -1,0 +1,16 @@
+
+- Two Pointers
+- Sliding Window
+- Fast & Slow Pointers
+- Prefix Sum
+- Binary Search
+- Merge Intervals
+- Monotonic Stack
+- Top K Elements
+- BFS
+- DFS
+- Backtracking
+- Graph Traversal
+- Topological Sort
+- Union Find
+- Dynamic Programming

@@ -1,0 +1,10 @@
+- STAR Method
+- Project Challenges
+- Technical Decisions
+- Conflict Resolution
+- Failure Stories
+- Leadership
+- Mentoring
+- Cross-Team Collaboration
+- Architecture Decisions
+- Production Incidents
