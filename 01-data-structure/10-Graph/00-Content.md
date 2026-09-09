@@ -27,33 +27,33 @@
 
 ### 2. Good to Have
 
-1. Multi-Source BFS
-2. Bipartite Graph / Graph Coloring
-3. Union-Find / Disjoint Set Union (DSU)
-4. Path Compression
-5. Union by Rank / Size
-6. Minimum Spanning Tree (MST)
-7. Kruskal's Algorithm
-8. Prim's Algorithm
-9. Graph Cloning
-10. State-Space / Implicit Graph Problems
-11. Dependency Graph Problems
-12. In-degree / Out-degree Patterns
-13. Weighted Graph Traversal
-14. DAG Problems
+21. Multi-Source BFS
+22. Bipartite Graph / Graph Coloring
+23. Union-Find / Disjoint Set Union (DSU)
+24. Path Compression
+25. Union by Rank / Size
+26. Minimum Spanning Tree (MST)
+27. Kruskal's Algorithm
+28. Prim's Algorithm
+29. Graph Cloning
+30. State-Space / Implicit Graph Problems
+31. Dependency Graph Problems
+32. In-degree / Out-degree Patterns
+33. Weighted Graph Traversal
+34. DAG Problems
 
 ### 3. Advanced
 
-1. Bellman-Ford Algorithm
-2. Floyd-Warshall Algorithm
-3. Strongly Connected Components (SCC)
-4. Kosaraju's Algorithm
-5. Tarjan's Algorithm
-6. Bridges in Graph
-7. Articulation Points
-8. Eulerian Path / Circuit
-9. Hamiltonian Path / Cycle
-10. Maximum Flow — Concept
-11. Ford-Fulkerson — Concept
-12. Edmonds-Karp — Concept
-13. Advanced Graph Coloring / Matching Problems
+35. Bellman-Ford Algorithm
+36. Floyd-Warshall Algorithm
+37. Strongly Connected Components (SCC)
+38. Kosaraju's Algorithm
+39. Tarjan's Algorithm
+40. Bridges in Graph
+41. Articulation Points
+42. Eulerian Path / Circuit
+43. Hamiltonian Path / Cycle
+44. Maximum Flow — Concept
+45. Ford-Fulkerson — Concept
+46. Edmonds-Karp — Concept
+47. Advanced Graph Coloring / Matching Problems
