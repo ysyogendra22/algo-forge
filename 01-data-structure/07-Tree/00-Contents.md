@@ -1,7 +1,5 @@
 #Tree
 
-# Recommended Study Order — Tree
-
 ## 1. Basic
 
 1. Tree Basics
