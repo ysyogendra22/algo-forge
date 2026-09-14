@@ -28,26 +28,26 @@
 
 ## 2. Good to Have / Optional
 
-15. Quickselect
+13. Quickselect
     
-16. Searching with HashMap / HashSet
+14. Searching with HashMap / HashSet
 
 
 ## 3. Advanced Level
 
-17. Advanced Binary Search on Answer
+15. Advanced Binary Search on Answer
 
 
 ## 4. Low Priority 
 
-- Jump Search
+1. Jump Search
     
-- Exponential Search
+2. Exponential Search
     
-- Interpolation Search
+3. Interpolation Search
     
-- Fibonacci Search
+4. Fibonacci Search
     
-- Ternary Search
+5. Ternary Search
     
-- Sentinel Search
+6. Sentinel Search
