@@ -1,4 +1,6 @@
 
+### Bucket Sort
+
 #### 1. How it works
 
 1. Create multiple buckets.

@@ -1,3 +1,5 @@
+
+### Quick Sort
 #### 1. How it works
 1. Choose an element as a pivot.
 2. Put smaller elements before the pivot.

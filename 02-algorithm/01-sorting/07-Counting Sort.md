@@ -1,4 +1,6 @@
 
+### Counting Sort
+
 #### 1. How it works
 1. Find the maximum value in the array.
 2. Create a count array for each possible value.

@@ -1,3 +1,4 @@
+### Insertion Sort
 #### 1. How it works
 
 1. Treat the left part of the array as sorted.

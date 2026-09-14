@@ -1,4 +1,4 @@
-
+### Selection Sort
 #### How it works
 1.  Find the smallest element.
 2. Swap it with the first unsorted element.

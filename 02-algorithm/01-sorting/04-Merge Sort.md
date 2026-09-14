@@ -1,4 +1,4 @@
-
+### Merge Sort
 #### 1. How it works
 1. Divide the array into two halves.
 2. Keep dividing until each part has one element.

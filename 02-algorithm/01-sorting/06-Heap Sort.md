@@ -1,3 +1,6 @@
+
+### Heap Sort
+
 #### 1. How it works
 
 1. Convert the array into a Max Heap.
