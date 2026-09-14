@@ -1,7 +1,6 @@
 #READ 
 
 ---
-# Interview Preparation
 
 Structured notes for Software Engineering interview preparation.
 
@@ -29,7 +28,7 @@ Structured notes for Software Engineering interview preparation.
 ## Repository Structure
 
 ```text
-algo-forge/
+engineering-playbook/
 │
 ├── 01-data-structures
 ├── 02-algorithms/

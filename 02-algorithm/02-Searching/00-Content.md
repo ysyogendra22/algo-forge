@@ -1,6 +1,5 @@
-# Recommended Study Order — Searching
 
-## 1. Must Know
+## 1. Basic - Must Know
 
 1. Searching Fundamentals
     
@@ -8,27 +7,23 @@
     
 3. Binary Search
     
-4. Binary Search Implementation
+4. First & Last Occurrence
     
-5. Binary Search Complexity
+5. Lower Bound / Upper Bound
     
-6. First & Last Occurrence
+6. Search Insert Position
     
-7. Lower Bound / Upper Bound
+7. Binary Search on Rotated Sorted Array
     
-8. Search Insert Position
+8. Find Minimum in Rotated Sorted Array
     
-9. Binary Search on Rotated Sorted Array
+9. Peak Element
     
-10. Find Minimum in Rotated Sorted Array
+10. Search in 2D Matrix
     
-11. Peak Element
+11. Binary Search on Answer
     
-12. Search in 2D Matrix
-    
-13. Binary Search on Answer
-    
-14. Common Binary Search Edge Cases
+12. Common Binary Search Edge Cases
 
 
 ## 2. Good to Have / Optional
