@@ -1,4 +1,6 @@
 
+https://leetcode.com/discuss/post/7347258/15-essential-dsa-patterns-for-tech-inter-nxem/
+
 1. Two Pointers
     
 2. Sliding Window
