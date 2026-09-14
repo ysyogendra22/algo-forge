@@ -1,3 +1,4 @@
+# Linear Search
 
 #### 1. Definition — Must Know
 
