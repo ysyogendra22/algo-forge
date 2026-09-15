@@ -216,10 +216,10 @@ Study the numbered topics in order. Focus on understanding request flows, choosi
 
 ## How to Proceed
 
-- For each topic, explain what it is, what problem it solves, how it works, and one limitation.
-- Complete the small backend at Step 7 before moving into distributed systems.
-- Start URL shortener and file-storage practice after Step 12; revisit them as you learn replication and sharding.
-- Add the remaining practice designs as you learn their required concepts.
-- Learn specialized concepts, such as video transcoding, within their practice problem.
-- Do not wait to finish all theory before practicing designs.
-- Skip consensus proofs, Kubernetes internals, service-mesh configuration, and exhaustive cloud-product comparisons initially.
+1. For each topic, explain what it is, what problem it solves, how it works, and one limitation.
+2. Complete the small backend at Step 7 before moving into distributed systems.
+3. Start URL shortener and file-storage practice after Step 12; revisit them as you learn replication and sharding.
+4. Add the remaining practice designs as you learn their required concepts.
+5. Learn specialized concepts, such as video transcoding, within their practice problem.
+6. Do not wait to finish all theory before practicing designs.
+7. Skip consensus proofs, Kubernetes internals, service-mesh configuration, and exhaustive cloud-product comparisons initially.
